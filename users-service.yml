@@ -19,5 +19,5 @@ jasypt:
       encryptor:
                bean: encryptorBean
                
-      enabled: true
+      enabled: false         
 
